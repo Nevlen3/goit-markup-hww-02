@@ -27,3 +27,20 @@ text-decoration: none;
  .contact-link:focus {
      color: #404bbf;
  }
+ .nav-link {
+     font-weight: 500;
+     /* Жирность шрифта */
+     line-height: 1.5;
+     /* Пространство между строками */
+     letter-spacing: 0.02em;
+     /* Расстояние между буквами */
+     color: #2e2f42;
+     /* Основной цвет текста */
+     text-decoration: none;
+ }
+
+ .nav-link:hover,
+ .nav-link:focus {
+     color: #404bbf;
+     /* Цвет текста при наведении и фокусе */
+ }

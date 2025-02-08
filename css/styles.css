@@ -15,3 +15,15 @@ body {
 .text-studio {
     color: #2e2f42;
 }
+.contact-link {
+font-style: normal;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+}
+ .contact-link:hover,
+ .contact-link:focus {
+     color: #404bbf;
+ }
